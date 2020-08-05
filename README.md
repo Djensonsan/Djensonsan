@@ -1,7 +1,8 @@
 ## Hi there, I'm Jens - aka [Djensonsan] 👋
 
 ### I'm a student @ University of Antwerp!
-- 🌱 I'm getting my MSc degree in Computer Science: Data Science & AI 
+- 🌱 I'm getting a master's degree in Computer Science: Data Science & AI 
+- 🎓 I've recently completed a master's in Electronics and ICT Engineering
 - 👯 I’m always open to discuss new opportunities/ideas
 - 🥅 2020 Goals: Get proficient at Python
 
