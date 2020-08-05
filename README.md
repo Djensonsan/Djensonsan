@@ -2,7 +2,7 @@
 
 ### I'm a student @ University of Antwerp!
 - 🌱 I'm getting my MSc degree in Computer Science: Data Science & AI 
-- 👯 I’m always open to new opportunities
+- 👯 I’m always open to discuss new opportunities/ideas
 - 🥅 2020 Goals: Get proficient at Python
 
 ### Connect with me:
