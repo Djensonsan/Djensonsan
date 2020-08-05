@@ -25,5 +25,5 @@
 <br />
 <br />
 
-[linkedin]: www.linkedin.com/in/jens-leysen
+[linkedin]: https://www.linkedin.com/in/jens-leysen
 
