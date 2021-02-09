@@ -4,7 +4,7 @@
 - 🌱 I'm getting a master's degree in Computer Science: Data Science & AI 
 - 🎓 I've recently completed a master's in Electronics and ICT Engineering
 - 👍 I’m always open to discuss new opportunities/ideas
-- 🥅 2020 Goals: Get proficient in Python
+- 🥅 2021 Goal: Contribute to an open source project 
 
 ### Connect with me:
 
