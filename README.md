@@ -1,1 +1,1 @@
-## Hi there, I'm Jens - aka [Djensonsan] 👋
+## Hi there, I'm Jens - aka Djensonsan 👋
